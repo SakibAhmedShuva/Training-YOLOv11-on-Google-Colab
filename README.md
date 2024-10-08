@@ -1,6 +1,6 @@
 # Training YOLOv11 on Google Colab
 
-This repository contains code for training YOLOv11 models on Google Colab for image segmentation/classification tasks.
+This repository contains code for training YOLOv11 models on Google Colab for image segmentation/classification tasks. You will also see how you can save the trained weights directly on your google drive.
 
 ## Directory Structure
 
